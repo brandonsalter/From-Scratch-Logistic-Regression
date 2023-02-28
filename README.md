@@ -4,4 +4,4 @@ A logistic regression class to instantiate models for binary classification as w
 
 Classification of the Wisconsin breast cancer dataset, available from Scikit-Learn.
 
-For an in depth discussion of the methadology, results, and underlying math, see the document "Regression Analysis Final Project.pdf" included in this repository.
+For an in-depth discussion of the methadology, results, and underlying math, see the document "Regression Analysis Final Project.pdf" included in this repository.
